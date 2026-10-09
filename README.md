@@ -36,7 +36,7 @@ The program checks whether the entered number is valid for the selected number s
 
 ## How to Run
 
-1. Compile the `test2.cpp` file using a C++ compiler.
+1. Compile the `main.cpp` file using a C++ compiler.
 2. Run the program.
 3. Choose a conversion option from the menu.
 4. Enter the required number.
@@ -44,4 +44,4 @@ The program checks whether the entered number is valid for the selected number s
 
 ## Project File
 
-- `test2.cpp` - Main C++ source code.
+- `main.cpp` - Main C++ source code.
